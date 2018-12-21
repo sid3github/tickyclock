@@ -1,0 +1,18 @@
+html,body{
+    height: 100%;
+    
+}
+
+#clock{
+    background-color: aqua;
+    font-family: 'Rock Salt', cursive;
+    font-size: 100px;
+    color: #000;
+    text-align: center;
+
+    position: relative;
+    top: 50%;
+    margin-top: -35px;
+}
+
+
