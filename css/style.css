@@ -1,10 +1,11 @@
-html,body{
+html,
+body {
     height: 100%;
-    
+
 }
 
-#clock{
-    background-color: aqua;
+#clock {
+    /* background-color: aqua; */
     font-family: 'Rock Salt', cursive;
     font-size: 100px;
     color: #000;
@@ -14,5 +15,4 @@ html,body{
     top: 50%;
     margin-top: -35px;
 }
-
 
